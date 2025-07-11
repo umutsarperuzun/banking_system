@@ -1,0 +1,80 @@
+{
+    "customers" : [
+                    {
+                        "fname": "Adam",
+                        "lname": "Smith",
+                        "address": ["14", "Wilcot Street", "Bath", "B5 5RT"],
+                        "account_no": 1234,
+                        "balance": 5000.00,
+                        "account_type": "normal_account"
+                    },
+                    {
+                        "fname": "David",
+                        "lname": "White",
+                        "address": ["60", "Holborn Viaduct", "London", "EC1A 2FD"],
+                        "account_no": 1235,
+                        "balance": 3200.00,
+                        "account_type": "normal_account"
+                    },
+                    {
+                        "fname": "Alice",
+                        "lname": "Churchil",
+                        "address": ["5", "Cardigan Street", "Birmingham", "B4 7BD"],
+                        "account_no": 1236,
+                        "balance": 18000.00,
+                        "account_type": "saving_account"
+                    },
+                    {
+                        "fname": "Ali",
+                        "lname": "Abdallah",
+                        "address": ["44", "Churchill Way West", "Basingstoke", "RG21 6YR"],
+                        "account_no": 1237,
+                        "balance": 40.00,
+                        "account_type": "normal_account"
+                    },
+                    {
+                        "fname": "Sarper",
+                        "lname": "Uzun",
+                        "address": ["4", "The Heights", "Birmingham", "B4 7DR"],
+                        "account_no": 1238,
+                        "balance": 35700,
+                        "account_type": "saving_account"
+                    },
+                    {
+                        "fname": "Isaac",
+                        "lname": "Semb",
+                        "address": ["11", "University Locks", "Birmingham", "B4 7XJ"],
+                        "account_no": 1239,
+                        "balance": 12700,
+                        "account_type": "saving_account"
+                    },
+                    {
+                        "fname": "Sundip",
+                        "lname": "Chauhan",
+                        "address": ["23", "Ipswich", "london", "N7 8YL"],
+                        "account_no": 1239,
+                        "balance": 12700,
+                        "account_type": "normal_account"
+                    }
+
+                  ],
+
+	"admins" : [
+                    {
+                    "fname": "Julian",
+                    "lname": "Padget",
+                    "address": ["12", "London Road", "Birmingham", "B95 7TT"],
+                    "user_name": "id1188",
+                    "password": "1441",
+                    "full_rights": true
+                    },
+                    {
+                        "fname": "David",
+                        "lname": "1",
+                        "address": ["47", "Mars Street", "Newcastle", "NE12 6TZ"],
+                        "user_name": "id3313",
+                        "password": "2442",
+                        "full_rights": false	
+                    }
+	            ]	
+}
